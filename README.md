@@ -44,7 +44,7 @@
 - Enhancing the model's real-time data integration could improve accuracy.
 - Additionally, developing a more dynamic approach to setting confidence levels might more accurately reflect the uncertainties in these predictions.
 
-### Comparison between Mistral and llama2
+## Comparison between Mistral and llama2
 
 **Response Complexity:** Mistral seems to provide more nuanced probability scores and confidence levels, indicating a potentially deeper analysis capability. Llama2, while thorough, appears more straightforward in its predictions.
 
@@ -54,7 +54,7 @@
 
 **Confidence Levels:** Mistral's confidence levels appear more varied and context-sensitive, which might indicate a more refined assessment of the prediction's reliability.
 
-### Overall Assessment after the implementation of the advanced prompts
+## Overall Assessment after the implementation of the advanced prompts
 - *Adaptability*: Both models adapt well to advanced prompting, showcasing their ability to handle complex prediction tasks.
 - *Accuracy*: Mistral's balanced approach, especially on historical events, suggests a more cautious and potentially more accurate prediction strategy. Llama2, while also accurate in some instances, tends to give more definitive answers, which can be risky in unpredictable domains.
 - *Reliability*: Mistral's consistent medium confidence across various questions indicates a uniform approach to uncertainty, which is crucial in prediction tasks. Llama2's varying confidence levels, while indicative of a nuanced understanding, may also suggest inconsistency in assessing prediction reliability.
