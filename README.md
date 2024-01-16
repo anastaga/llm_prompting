@@ -106,6 +106,8 @@
    - Strive for transparency in how the model makes predictions, which is crucial for trust and accountability.
 
 ## References
--Howard, J., & Ruder, S. (2018). Universal Language Model Fine-tuning for Text Classification. ArXiv:1801.06146.
--“BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding” by Devlin et al.
--“Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer” by Raffel et al.
+1.-Howard, J., & Ruder, S. (2018). Universal Language Model Fine-tuning for Text Classification. ArXiv:1801.06146.
+
+2.-“BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding” by Devlin et al.
+
+3.-“Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer” by Raffel et al.
